@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## My Websites
 
-You can use the [editor on GitHub](https://github.com/rpkruse/rpkruse.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Dnd-Buddy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An Angular 6 Web App using Asp.net entity core 2.0 with MySQL and MongoDB databases hosted on Heroku. This app was created to allow
+friends to play DnD through the web. 
+View at: [Dnd-Buddy](https://rpkruse.github.io/dnd-buddy)
 
-### Markdown
+### Lantern
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rpkruse/rpkruse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+An Angular 6 Web App used to host a download link to my entry in the 2018 Kansas State University GameJam. The game was written in
+Java using the [LibGDX](https://libgdx.badlogicgames.com/) framework.
+View at: [Lantern](https://rpkruse.github.io/Lantern/#/home)
